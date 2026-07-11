@@ -11,7 +11,7 @@ function PromoStrip() {
     >
       <span className="opacity-80">Every body deserves a website.</span>{" "}
       <span className="font-semibold underline decoration-[rgba(255,255,255,0.4)] underline-offset-2">
-        Get your own wesite for free from Malicc →
+        Get your own website for free from Malicc →
       </span>
     </a>
   );
